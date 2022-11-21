@@ -1,4 +1,4 @@
-| JPEG from camera    | RAW after edited                 |
+| JPEG from camera    | JPEG after edited                |
 |---------------------|----------------------------------|
 | ![jpeg](./jpeg.JPG) | ![captured-one](captured-one.jpg)|
 
